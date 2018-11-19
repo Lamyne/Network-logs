@@ -45,7 +45,7 @@ The subjective data is contained in the following files:
      - `delay`:	Network latency (ms)
      - `jitter`: Network jitter (ms)
       
-    - `RER-3G.csv`: Network performances using RER transportation mode with 3G technology , columns:
+  - `RER-3G.csv`: Network performances using RER transportation mode with 3G technology , columns:
      - `time`: Unix timestamps 
      - `bandwidth`:	Network bandwidth (Kb/s)
      - `loss_rate`:	Packet loss rate (%)
