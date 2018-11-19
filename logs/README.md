@@ -8,7 +8,7 @@ The tests were performed in the period 2017-10-13 to 2017-10-28.
    
 The logs are grouped according to the type of used transportation mode (Train, Bus and RER (Train around Paris)). 
 Note that each path only have one measurement, i.e., the bandwidth plot does not have a standard deviation.  
-Note also that each tranportation mode works woth a specific mobile wireless network technology as follow:
+Note also that each tranportation mode works in a specific mobile wireless network technology as follow:
   
    1- Train with 3G technology,
    
