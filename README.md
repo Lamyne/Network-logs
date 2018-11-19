@@ -1,4 +1,4 @@
-# Network-logs
+# Network-performance-logs
 
 ## Description
 The structure of the repository is as follows:
