@@ -1,5 +1,4 @@
-# QoE open dataset using VLC indicators
-
+# Network performances logs
 
 This archive contains logs from TCP streaming sessions in  3G/LTE-A(4G) mobile wireless network in France. 
 In each test, the python "pyspeedtest" (https://pypi.org/project/pyspeedtest/) were used to measure the 
