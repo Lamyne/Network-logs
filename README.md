@@ -3,9 +3,11 @@
 ## Description
 The structure of the repository is as follows:
 
-   - `logs`: Open dataset containing three network traces.
+   - `data`: Open dataset containing the collected factors in the subjective campaign test and user's MOS scores.
    
-   - `plots`: Plots representing the collected netwodk performances.
+   - `logs`: Open dataset containing three network performances traces.
+   
+   - `plots`: Plots representing the collected network performances.
    
    - `scripts`: Utility scripts to plot charcteristics.
    
